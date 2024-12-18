@@ -1,0 +1,10 @@
+# .yaml file for Google Colab Training  for yolov9
+
+# Train/val sets 
+
+train: /content/gdrive/My Drive/Master Thesis/Yolov9Training/data/images/train/
+val: /content/gdrive/My Drive/Master Thesis/Yolov9Training/data/images/val/
+
+# Classees:
+nc: 1
+names: ['Hangar']
